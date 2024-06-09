@@ -80,7 +80,7 @@ export const navItems = [
   
     {
       id: 2,
-      title: "",
+      title: "Brainwave",
       des: " Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles.",
       img: "/Brainwave.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", ],
@@ -106,7 +106,7 @@ export const navItems = [
    
     {
       id: 1,
-      title: "WooCommerce",
+      title: "WooCommerce E-commerce Management",
       desc: "Designed and managed an e-commerce shop utilizing WooCommerce",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
